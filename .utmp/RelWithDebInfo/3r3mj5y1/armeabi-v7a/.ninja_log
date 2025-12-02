@@ -1,0 +1,23 @@
+# ninja log v5
+34	1867	7863235944313163	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7a391b2b31b414ab
+135	325	7863235928973269	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7699fa5be30e4c2f
+327	477	7863235930439097	C:/ProjectsWorks/CleverTap/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3r3mj5y1/obj/armeabi-v7a/libswappywrapper.so	7ad003035633e193
+50	1367	7863235939325155	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9546613c2908fb87
+118	1666	7863235942321817	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4ed9841bef04d37f
+17	1395	7863235939598323	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	52e52200c0779939
+67	1419	7863235939842399	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4d45e9393e72bb7a
+101	1511	7863235940741592	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dfb1ed49fd4e621c
+1	1500	7863235940660839	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ffa841c34cd4cda7
+84	1808	7863235943740456	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	68e08c5c1ab52ff9
+1867	2005	7863235945698933	C:/ProjectsWorks/CleverTap/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3r3mj5y1/obj/armeabi-v7a/libgame.so	ca600f3b38caf25b
+137	316	7863699393432623	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	7699fa5be30e4c2f
+317	448	7863699394702387	C:/ProjectsWorks/CleverTap/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3r3mj5y1/obj/armeabi-v7a/libswappywrapper.so	7ad003035633e193
+47	1206	7863699402222304	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	4d45e9393e72bb7a
+19	1215	7863699402306846	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	52e52200c0779939
+123	1269	7863699402886518	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	9546613c2908fb87
+34	1296	7863699403127707	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	ffa841c34cd4cda7
+96	1314	7863699403311048	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	dfb1ed49fd4e621c
+109	1424	7863699404445417	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	4ed9841bef04d37f
+76	1550	7863699405715642	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	68e08c5c1ab52ff9
+5	1589	7863699406079105	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	7a391b2b31b414ab
+1590	1728	7863699407487523	C:/ProjectsWorks/CleverTap/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/3r3mj5y1/obj/armeabi-v7a/libgame.so	ca600f3b38caf25b
